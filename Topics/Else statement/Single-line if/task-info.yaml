@@ -1,0 +1,23 @@
+type: matching
+captions:
+  - condition
+  - first alternative
+  - second alternative
+options:
+  - print(False)
+  - print(True)
+  - x &gt;= 0
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5935#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 28 Oct 2024 19:58:57 UTC"
+record: -1
+ordering:
+  - 2
+  - 1
+  - 0
